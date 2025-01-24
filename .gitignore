@@ -1,0 +1,5 @@
+data_summary
+data
+.env
+*.txt
+*.zip
