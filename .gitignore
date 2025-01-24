@@ -1,5 +1,13 @@
-data_summary
-data
+cases
+summaries
+uploads
+working_data
+data_json
+eval_data
+*.csv
+# *.json
+query_case_mapping_rel.json
 .env
-*.txt
 *.zip
+*.pkl
+*.txt
